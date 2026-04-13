@@ -1,2 +1,17 @@
-# discord-appproval-bot
-Discord bot designed to automate approvals on behalf of the server owner, then create and update records on a Google Sheet.
+# Discord Approval Bot
+
+A Discord bot that automatically approves requests after a delay and logs them to Google Sheets.
+
+## Features
+
+- Slash command `/approve_request`
+- Automatic delayed approval
+- Google Sheets logging
+- Simple audit trail
+
+## Setup
+
+### 1. Clone repo
+```bash
+git clone https://github.com/yourusername/discord-approval-bot.git
+cd discord-approval-bot
