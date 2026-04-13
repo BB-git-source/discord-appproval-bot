@@ -13,5 +13,5 @@ A Discord bot that automatically approves requests after a delay and logs them t
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/yourusername/discord-approval-bot.git
+git clone https://github.com/BB-git-source/discord-approval-bot.git
 cd discord-approval-bot
