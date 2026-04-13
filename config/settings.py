@@ -1,0 +1,2 @@
+APPROVAL_DELAY_SECONDS = 120  # 2 minutes
+SHEET_NAME = "Approvals"
